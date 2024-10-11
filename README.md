@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cajan&label=Profile%20views&color=0e75b6&style=flat" alt="cajan" /> </p>
 
-- 🔭 I’m currently working on **Imaginerium**
+- 🔭 I’m currently working on **PennyWise**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **linkedin.com/in/charlessajan**
 
