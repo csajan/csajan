@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **PennyWise**
 
-- 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **linkedin.com/in/charlessajan**
 
 <h3 align="left">Connect with me:</h3>
